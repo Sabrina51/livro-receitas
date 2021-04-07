@@ -4,7 +4,7 @@
 
 # Livro de Receitas Nordestinas :yum: 
 
-Olá, neste livro você encontrará um complicado de receitas dos estados do nordeste
+Olá, neste livro você encontrará um compilado de receitas dos estados do nordeste
 
 ### Sumário
 
